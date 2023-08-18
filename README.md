@@ -1,4 +1,4 @@
-### Hi there, my Github profile viewers 😊🙋‍♂️
+### Hi there, my dear Github profile viewers 😊🙋‍♂️
 
 - 🌱 I’m currently learning Python 🐍 in Softoware University 😎
 - 👯 I’m looking to collaborate on some small and medium Python projects 😊
